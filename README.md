@@ -1,6 +1,9 @@
 📘 Learning Buddy – E-Learning Adaptive
 Learning Buddy adalah aplikasi e-learning adaptif berbasis chatbot yang membantu pengguna menentukan jalur belajar yang sesuai dengan kemampuan mereka melalui interaksi percakapan, tes diagnostik, dan rekomendasi kelas yang dipersonalisasi.
 Mengakses chatbot Learning Buddy<img width="1349" height="680" alt="chat awal" src="https://github.com/user-attachments/assets/1f2a8108-d169-4e17-9e91-dc5c56ca2743" />
+<img width="1919" height="928" alt="Screenshot 2026-06-13 135845" src="https://github.com/user-attachments/assets/a679bc03-9b49-4bfe-9b55-7d454896058a" />
+<img width="1610" height="608" alt="Screenshot 2026-06-13 135939" src="https://github.com/user-attachments/assets/d3d466c3-3df1-42ac-b848-a79ee2bb29cf" />
+<img width="1919" height="926" alt="Screenshot 2026-06-13 140047" src="https://github.com/user-attachments/assets/7b673dcd-90ae-4b2e-b8e0-e2c03f7b5b3c" />
 
 
 🎯 Tujuan Proyek
